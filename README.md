@@ -12,7 +12,7 @@ The MNIST Handwritten Digit Classification model uses convolutional neural netwo
 
 ## MNIST dataset
 MNIST is a collection of handwritten digits from 0-9. Image of size 28 X 28.
-
+![mnist-sample](https://github.com/RashiS20/MNIST-HANDWRITTEN-DIGIT-CLASSIFICATION/assets/104789491/ff0797f2-0aa3-473e-8acd-f5d9702039e1)
 
 
 ## Introduction
